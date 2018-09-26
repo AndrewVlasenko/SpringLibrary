@@ -7,7 +7,7 @@
 
 spring:
   datasource:
-    default-catalog: library
+     default-catalog: library
     jndi-name: jdbc/Library
   jpa:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect

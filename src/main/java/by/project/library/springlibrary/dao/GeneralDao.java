@@ -1,7 +1,6 @@
 package by.project.library.springlibrary.dao;
 
-
-        import java.util.List;
+import java.util.List;
 
 public interface GeneralDao<T> {
 
